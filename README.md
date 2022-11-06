@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GİT Eğitiminde oluşturduğum
 
 ## Installation
 
-Öncelikle projeyi clonelayın.
+Öncelikle projeyi clonelayın. (https://github.com/0xHamza/kodluyoruzilkrepo.git)
 
 ```bash
 git clone https://github.com/0xHamza/kodluyoruzilkrepo.git
